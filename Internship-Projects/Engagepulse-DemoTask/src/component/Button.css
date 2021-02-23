@@ -1,0 +1,25 @@
+.component-button {
+  display: inline-flex;
+  width: 20%;
+  flex: 1 0 auto;
+}
+
+.component-button.wide {
+  width: 40%;
+}
+
+
+.component-button button{
+  background-color: #f0f0f0;
+  border: 0.1;
+  font-size: 1.5rem;
+  margin: 0 1px 0 0;
+  flex: 1 0 auto;
+  padding: 0;
+}
+
+
+.component-button:last-child button {
+  margin-right: 0;
+}
+

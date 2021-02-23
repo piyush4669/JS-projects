@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "436708864731",
+    "firebase_url": "https://fitsytask2.firebaseio.com",
+    "project_id": "fitsytask2",
+    "storage_bucket": "fitsytask2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436708864731:android:6fefee9a89f2037a7052fe",
+        "android_client_info": {
+          "package_name": "com.fitsy.fitsypartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436708864731-lf4p7vcc73357n3qdudqtn7gh4qv04ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu4vlFuKGS8oFZCBWZmVW-Zy2o77jCxOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436708864731-lf4p7vcc73357n3qdudqtn7gh4qv04ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

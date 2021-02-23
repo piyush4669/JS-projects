@@ -1,0 +1,4 @@
+#Sat Nov 02 12:48:47 IST 2019
+base.0=/Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

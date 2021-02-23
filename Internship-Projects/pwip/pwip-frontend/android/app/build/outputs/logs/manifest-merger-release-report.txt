@@ -1,0 +1,301 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:1:1-29:12
+MERGED from [:@react-native-community_async-storage] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-maps] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-linear-gradient] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-interactable] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-18:12
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/caf090f088ca1d499aad6344519d050e/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/8067494cd108296fe2f23acb152e2b44/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r241213] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7ac403723f7360e0276190f422703b79/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/88523928d002bc824d25d24865319ded/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a0ed93ae69e4a6d9260e7e416e7c8199/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/f51e364d94941138992198c75527a8c5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7a360d099ea4be65ed98888320f3c49e/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/583754782e9c527a016fb1ecb0be74c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/2622df96a6d26fb1fdcdb7b369fcc75e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fbb249560d4686ec77e5514fd601a9f3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/74ae7018b3e29c1cb84de8de32129ae5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/eb88447ca2b688eeb74d888bccf822ed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ae5bfcba5fda34c151edc358d25f236b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/3e6f9037d1faf1b226d32f7b4ddab78a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/26c37e0be0b16afa66cf791ff54a48cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/0f2ae45891057ad61c09a62590c93547/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a1c6ecbcf10b3c539f47c9d20fd3171f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/df1b3b26e39ac69606780c410064906c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/aacbeb2d6bd61e1b3a011d5aafe02bcd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7d92ee887043c10350172c7fa8552603/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/0057596eb578ff8e92794195c270bf7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a0230b211bd14fea09e4e1e5ceb6100d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/368b3fbe34cbe990261e45ffd4ff40a2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7080c103964e1db3d704ef10c120562f/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/cee982afe08dae352cc5f3fd65fd365e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/2368a3edbac7e1c08afcfc13d58ee7cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/dc9d97f4877e3ab5b7688d80fc2ec4d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/3b6c16f7b12b6e38199209478e30b69a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7c15aa64b469dce961e41947632d7f17/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/c24cf73919f4a0e1fe01b3a6884fffda/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/843315d4a980cb9114267bddad636ef5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ebd6ddd95261d049989ccacafa327f94/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/c7b8e5d955fef6bd801334328be70fbf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/2e2aa0d3144e12a43b1d9481a199bce1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/0f20d1ec4e346968dcc41efc23f4c8f3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/c26be7193e112a98f98dca249031f4d8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/aac3d698fd0fea88a504053af86be0af/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ed004679255d72b8058f89688575f510/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/1b86a660cbc01b5e6891c91037b400d4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7cd06009a65d9d9141804786249391a7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/6de240bbe9a7fcd42a4af1e8d16946e7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ecc1617beea850d8e60419fd9d74765c/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/e3ec7fb5d6347e75d080ab07edb5f461/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:1:1-29:12
+INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:1:1-29:12
+		INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:6:5-27:19
+MERGED from [:react-native-interactable] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-16:19
+MERGED from [:react-native-interactable] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-16:19
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/caf090f088ca1d499aad6344519d050e/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/caf090f088ca1d499aad6344519d050e/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/88523928d002bc824d25d24865319ded/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/88523928d002bc824d25d24865319ded/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a0ed93ae69e4a6d9260e7e416e7c8199/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a0ed93ae69e4a6d9260e7e416e7c8199/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/f51e364d94941138992198c75527a8c5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/f51e364d94941138992198c75527a8c5/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7a360d099ea4be65ed98888320f3c49e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7a360d099ea4be65ed98888320f3c49e/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/368b3fbe34cbe990261e45ffd4ff40a2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/368b3fbe34cbe990261e45ffd4ff40a2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7080c103964e1db3d704ef10c120562f/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7080c103964e1db3d704ef10c120562f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ecc1617beea850d8e60419fd9d74765c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ecc1617beea850d8e60419fd9d74765c/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/368b3fbe34cbe990261e45ffd4ff40a2/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:7:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:13:9-15:70
+	android:value
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:15:13-68
+	android:name
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:14:13-58
+activity#com.pwip.MainActivity
+ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:16:7-25:18
+	android:label
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:19:9-79
+	android:name
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml:26:17-81
+uses-sdk
+INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-linear-gradient] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-interactable] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-interactable] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/caf090f088ca1d499aad6344519d050e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.3] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/caf090f088ca1d499aad6344519d050e/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/8067494cd108296fe2f23acb152e2b44/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/8067494cd108296fe2f23acb152e2b44/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r241213] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7ac403723f7360e0276190f422703b79/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r241213] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7ac403723f7360e0276190f422703b79/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/88523928d002bc824d25d24865319ded/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/88523928d002bc824d25d24865319ded/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a0ed93ae69e4a6d9260e7e416e7c8199/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a0ed93ae69e4a6d9260e7e416e7c8199/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/f51e364d94941138992198c75527a8c5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/f51e364d94941138992198c75527a8c5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7a360d099ea4be65ed98888320f3c49e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7a360d099ea4be65ed98888320f3c49e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/583754782e9c527a016fb1ecb0be74c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/583754782e9c527a016fb1ecb0be74c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/2622df96a6d26fb1fdcdb7b369fcc75e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/2622df96a6d26fb1fdcdb7b369fcc75e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fbb249560d4686ec77e5514fd601a9f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fbb249560d4686ec77e5514fd601a9f3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/74ae7018b3e29c1cb84de8de32129ae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/74ae7018b3e29c1cb84de8de32129ae5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/eb88447ca2b688eeb74d888bccf822ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/eb88447ca2b688eeb74d888bccf822ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ae5bfcba5fda34c151edc358d25f236b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ae5bfcba5fda34c151edc358d25f236b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/3e6f9037d1faf1b226d32f7b4ddab78a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/3e6f9037d1faf1b226d32f7b4ddab78a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/26c37e0be0b16afa66cf791ff54a48cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/26c37e0be0b16afa66cf791ff54a48cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/0f2ae45891057ad61c09a62590c93547/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/0f2ae45891057ad61c09a62590c93547/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a1c6ecbcf10b3c539f47c9d20fd3171f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a1c6ecbcf10b3c539f47c9d20fd3171f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/df1b3b26e39ac69606780c410064906c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/df1b3b26e39ac69606780c410064906c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/aacbeb2d6bd61e1b3a011d5aafe02bcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/aacbeb2d6bd61e1b3a011d5aafe02bcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7d92ee887043c10350172c7fa8552603/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7d92ee887043c10350172c7fa8552603/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/0057596eb578ff8e92794195c270bf7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/0057596eb578ff8e92794195c270bf7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a0230b211bd14fea09e4e1e5ceb6100d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a0230b211bd14fea09e4e1e5ceb6100d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/368b3fbe34cbe990261e45ffd4ff40a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/368b3fbe34cbe990261e45ffd4ff40a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7080c103964e1db3d704ef10c120562f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7080c103964e1db3d704ef10c120562f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/cee982afe08dae352cc5f3fd65fd365e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/cee982afe08dae352cc5f3fd65fd365e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/2368a3edbac7e1c08afcfc13d58ee7cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/2368a3edbac7e1c08afcfc13d58ee7cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/dc9d97f4877e3ab5b7688d80fc2ec4d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/dc9d97f4877e3ab5b7688d80fc2ec4d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/3b6c16f7b12b6e38199209478e30b69a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/3b6c16f7b12b6e38199209478e30b69a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7c15aa64b469dce961e41947632d7f17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7c15aa64b469dce961e41947632d7f17/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/c24cf73919f4a0e1fe01b3a6884fffda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/c24cf73919f4a0e1fe01b3a6884fffda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/843315d4a980cb9114267bddad636ef5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/843315d4a980cb9114267bddad636ef5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ebd6ddd95261d049989ccacafa327f94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ebd6ddd95261d049989ccacafa327f94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/c7b8e5d955fef6bd801334328be70fbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/c7b8e5d955fef6bd801334328be70fbf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/2e2aa0d3144e12a43b1d9481a199bce1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/2e2aa0d3144e12a43b1d9481a199bce1/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/0f20d1ec4e346968dcc41efc23f4c8f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/0f20d1ec4e346968dcc41efc23f4c8f3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/c26be7193e112a98f98dca249031f4d8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/c26be7193e112a98f98dca249031f4d8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/aac3d698fd0fea88a504053af86be0af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/aac3d698fd0fea88a504053af86be0af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ed004679255d72b8058f89688575f510/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ed004679255d72b8058f89688575f510/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/1b86a660cbc01b5e6891c91037b400d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/1b86a660cbc01b5e6891c91037b400d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7cd06009a65d9d9141804786249391a7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7cd06009a65d9d9141804786249391a7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/6de240bbe9a7fcd42a4af1e8d16946e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/6de240bbe9a7fcd42a4af1e8d16946e7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ecc1617beea850d8e60419fd9d74765c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/ecc1617beea850d8e60419fd9d74765c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/e3ec7fb5d6347e75d080ab07edb5f461/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/e3ec7fb5d6347e75d080ab07edb5f461/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sudhansukumarswain/Desktop/Projects/pwip/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [:react-native-interactable] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from [:react-native-interactable] /Users/sudhansukumarswain/Desktop/Projects/pwip/node_modules/react-native-interactable/lib/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:22-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/fde078748b86e4aef1f4c528fc65c6a3/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/88523928d002bc824d25d24865319ded/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/88523928d002bc824d25d24865319ded/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/88523928d002bc824d25d24865319ded/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/88523928d002bc824d25d24865319ded/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a0ed93ae69e4a6d9260e7e416e7c8199/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7a360d099ea4be65ed98888320f3c49e/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/7a360d099ea4be65ed98888320f3c49e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a0ed93ae69e4a6d9260e7e416e7c8199/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/sudhansukumarswain/.gradle/caches/transforms-2/files-2.1/a0ed93ae69e4a6d9260e7e416e7c8199/AndroidManifest.xml:9:13-58

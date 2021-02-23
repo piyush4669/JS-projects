@@ -1,0 +1,3 @@
+# GET https://api.edamam.com/api/nutrition-data?app_id=24a2f2d0&app_key=b633e0b55d58097079afe7a5c8c7ac36&ingr=1000%20Gram%20dosa
+
+GET https://api.edamam.com/api/food-database/parser?nutrition-type=logging&ingr=apple&app_id=d6adae4b&app_key=0f0b0094fceaf4cd1a086a82954d065f

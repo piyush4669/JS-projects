@@ -1,0 +1,17 @@
+{
+  "name": "calcme",
+  "version": "1.0.0",
+  "license": "MIT",
+  "devDependencies": {
+    "react-scripts": "^3.0.1"
+  },
+  "dependencies": {
+    "big.js": "^5.2.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}

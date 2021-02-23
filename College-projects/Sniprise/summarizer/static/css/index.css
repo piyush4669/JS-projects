@@ -1,0 +1,154 @@
+#scissors{
+  height: 2.5rem;
+}
+
+textarea{
+  overflow-y: scroll !important;
+    max-height: 10rem;
+  }
+.parent{
+  display: flex;
+  justify-content: space-between;
+}
+.container{
+  padding-top:1rem;
+  font-family: 'Noto Serif', sans-serif;
+}
+.bu{
+  margin-bottom: 0.5rem;
+}
+#Copy{
+  width: 30%;
+}
+#Download{
+  width: 60%;
+}
+#Download1{
+  width: 60%;
+}
+.wrapper {
+  position: relative;
+  perspective: 40em;
+  display: grid;
+  transform-style: preserve-3d;
+}
+::placeholder{
+  font-size: 1.25rem;
+  font-family: 'Noto Serif', sans-serif;
+}
+.car {
+  grid-area: 1 / 1;
+  height: 150px;
+  width: 400px;
+  transform: translateX(10px) rotateY(25deg) rotateX(10deg);
+  background: rgba(255, 234, 88, 0.88);
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 30px;
+  color: #000;
+  backface-visibility: hidden;
+  box-shadow: 0 10px 30px -3px rgba(0,0,0,.1);
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: 800;
+}
+
+.car .enclosed {
+  background: #000;
+  line-height: 1;
+  color: rgba(255, 234, 88, 1);
+  padding: 0 5px;
+  display: inline-block;
+  transform: translate(-1px, 1px) scale(0.75);
+  transform-origin: right center;
+}
+
+.wrapper:before {
+  --bw: 7px;
+  grid-area: 1 / 1;
+  content: '';
+  backface-visibility: hidden;
+  height: 100%;
+  width: 100%;
+  margin-top: calc(-1 * var(--bw));
+  margin-left: calc(-1 * var(--bw));
+  background: transparent;
+  transform: translateX(-60px) rotateY(-30deg) rotateX(15deg) scale(1.03);
+  pointer-events: none;
+  border: var(--bw) solid #000;
+  box-sizing: content-box;
+}
+
+
+.wrapper:hover > div,
+.wrapper:hover:before {
+  transform: none;
+}
+
+
+.wrapper > div,
+.wrapper:before {
+  will-change: transform;
+  transition: .3s transform cubic-bezier(.25,.46,.45,1);
+}
+
+html,
+body {
+  padding-top: 1rem;
+  height: 100%;
+}
+
+body {
+  display: grid;
+  place-items: center;
+background-image: radial-gradient(circle, #bd9ff4, #a37cd8 60%, #8a58bb, #72349f, #5a0182 100%);
+/* background-image: radial-gradient(circle, #5a0182, #72349f 60%, #8a58bb, #a37cd8, #bd9ff4 100%); */
+}
+
+@media(max-width: 600px){
+  h1 {
+    font-size: 45px;
+    font-weight: 300;
+  }
+  .car{
+      width: 290px;
+      height: 110px;
+      padding: 20px;
+  }
+  #scissors{
+    height: 2rem;
+  }
+  .wrapper::before{
+    --bw:5px;
+  }
+}
+@media(max-width: 460px){
+  #Copy{
+    width: 100%;
+  }
+  #Download{
+    width: 100%;
+  }
+  #Download1{
+    width: 100%;
+  }
+  .bu{
+    width: 100%;
+  }
+  .parent{
+    display: block;
+  }
+}
+
+@media(min-width: 990px){
+  .container{
+    padding-top: 2rem;
+  }
+  textarea{
+    min-height: 10rem !important;
+    max-height: 10rem;
+  }
+}

@@ -1,0 +1,61 @@
+body{
+    background-color:#00ced1;
+}
+#mtable{
+    height: 90%;
+    width: 99%;
+    border: 1px;
+}
+.heading{
+    background-color:#00b0b3 ;
+    color:wheat;
+    height: 10%;
+    width: 50%;
+    font-size: 30px;
+    border-radius: 10px 10px 10px 10px;
+}
+#asta {
+    border: 2px solid black;
+    border-radius: 10px 10px 10px 10px;
+
+}
+#dijks{
+  border: 2px solid black;
+  border-radius: 10px 10px 10px 10px;
+
+}
+.status{
+    border: 2px;
+    background-color:#00b0b3;
+    height: 10%;
+    width: 47%;
+    font-size: 30px;
+    color: white;
+}
+#s1{
+  border-radius: 10px 30px 30px 10px;
+}
+#s2{
+  border-radius: 30px 10px 10px 30px;
+}
+#btable{
+    height: 10%;
+    width: 100%;
+}
+.click{
+    height: 10%;
+    width: 6%;
+}
+.btn{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    background-color: #00ced1;
+    border: 2px;
+    color: white;
+    font-size: 35px;
+}
+img{
+width:67px;
+height:67px;
+}

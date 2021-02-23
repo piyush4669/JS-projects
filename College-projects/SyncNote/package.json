@@ -1,0 +1,21 @@
+{
+  "name": "shared_draw",
+  "version": "1.0.0",
+  "description": "An online shared drawing/writing pad",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node.js",
+    "socket.io",
+    "p5.js"
+  ],
+  "author": "Piyush Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.5",
+    "socket.io": "^2.1.1"
+  }
+}
